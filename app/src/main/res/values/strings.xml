@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FaceDetctor</string>
+    <string name="imagechooser">ImageChooser</string>
+</resources>
